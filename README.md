@@ -1,102 +1,53 @@
-<h1 align="center">Yash Agrawal</h1>
-<p align="center">
-  <b>Building applied intelligence systems.</b><br/>
-  <sub>Agents • Evaluation • Structured Reasoning • Real-world AI</sub>
-</p>
+# Yash Agrawal
+
+Building applied AI systems that reason, evaluate, and survive production.
 
 ---
 
-## ⚡ What I Do
+## 🚀 What I Build
 
-I design and ship AI systems that are:
-
-- 🧠 Reasoning-first (not autocomplete wrappers)
-- 📊 Evaluation-backed (no demo-ware)
-- 🏗️ Architected for scale
-- 🔍 Inspectable & debuggable
-- ⚙️ Production-aware
-
-I care about systems that survive contact with reality.
+- 🧠 AI agents that use tools and think in steps  
+- 📊 Evaluation pipelines (because vibes ≠ metrics)  
+- 🏗️ Structured reasoning systems  
+- ⚙️ Production-aware LLM backends  
 
 ---
 
-## 🚀 Products & Systems Built
+## 🛠 Products
 
-### 🛰️ AquaTwin — Digital Twin Agent
-Agent architecture combining:
-- Structured world modeling
-- Tool use
-- Retrieval
-- Multi-step reasoning  
-Designed for long-horizon decision support.
+- **[AquaTwin](https://github.com/rogue-socket/aquatwin)**  
+  Digital Twin agent architecture for long-horizon decision support.
 
----
+- **[Medical Necessity Engine](https://github.com/yourusername/medical-necessity-engine)**  
+  RAG + knowledge graph system for clinical justification generation.
 
-### 🏥 Medical Necessity Engine
-LLM-powered clinical justification system using:
-- RAG pipelines
-- Embedding search
-- Knowledge graphs
-- Automated evaluation (DeepEval-style benchmarking)
+- **[SQL Reasoning Agent](https://github.com/yourusername/sql-reasoning-agent)**  
+  Chain-of-Thought + ReAct based SQL generation and benchmarking framework.
 
-Built to reduce hallucination and increase traceability.
+- **[Neural Net from Scratch](https://github.com/yourusername/mnist-from-scratch)**  
+  MNIST classifier built using pure NumPy (+ CuPy), no high-level abstractions.
 
 ---
 
-### 🗄️ SQL Reasoning Agent
-Chain-of-Thought + ReAct based SQL generation engine.
-Includes:
-- Query validation loops
-- Benchmarking framework
-- Performance comparison across models
-- Structured reasoning traces
+## ⚙️ Stack
 
----
+**Languages**  
+`Python` `C++` `SQL` `JavaScript`
 
-### 🔢 Neural Network From Scratch
-MNIST classifier built using:
-- Pure NumPy (+ CuPy acceleration)
-- Custom forward/backward propagation
-- No high-level ML abstractions
-
-Because abstraction without understanding is debt.
-
----
-
-## 🛠️ Stack
-
-**Core**
-`Python` `C++` `SQL`
-
-**AI Systems**
+**AI Systems**  
 `PyTorch` `Transformers` `Fine-tuning`  
 `LangChain` `LangGraph` `LlamaIndex`  
 `Embeddings` `RAG` `Knowledge Graphs` `Neo4j`
 
-**Infra**
-`Docker` `AWS` `API design` `Evaluation frameworks`
+**Infra**  
+`Docker` `AWS` `API Design`
 
 ---
 
-## 📈 Current Focus
+## 📈 Activity
 
-- Agent architecture beyond chatbots
-- LLM evaluation pipelines
-- Structured reasoning systems
-- Tool-using autonomous workflows
-- Building AI that doesn't collapse in production
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rogue-socket&theme=github-dark&hide_border=true)
 
 ---
 
-## 🧭 Build Philosophy
-
-> Ship systems, not prompts.  
-> Measure everything.  
-> Design for iteration velocity.  
-> Cut noise.
-
----
-
-<p align="center">
-  <b>Open to building ambitious AI products.</b>
-</p>
+Open to building ambitious AI products.
