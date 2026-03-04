@@ -1,9 +1,5 @@
 # Yash Agrawal
 
-Building applied AI systems that reason, evaluate, and survive production.
-
----
-
 ## 🚀 What I Build
 
 - 🧠 AI agents and workflows that use tools and think in steps  
