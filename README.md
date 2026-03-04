@@ -48,11 +48,4 @@ Building applied AI systems that reason, evaluate, and survive production.
 
 ---
 
-## 📈 Activity
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rogue-socket&theme=github-dark&hide_border=true)
-![Yash's GitHub Contribution Grid](https://ghchart.rshah.org/409ba5/rogue-socket)
-![GitHub Contributions](https://ghchart.rshah.org/rogue-socket)
----
-
 Open to building ambitious AI products.
