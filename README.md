@@ -6,41 +6,45 @@ Building applied AI systems that reason, evaluate, and survive production.
 
 ## 🚀 What I Build
 
-- 🧠 AI agents that use tools and think in steps  
-- 📊 Evaluation pipelines (because vibes ≠ metrics)  
+- 🧠 AI agents and workflows that use tools and think in steps  
 - 🏗️ Structured reasoning systems  
-- ⚙️ Production-aware LLM backends  
+- ⚙️ Production-aware LLM backends
+- 📊 Evaluation pipelines (because vibes ≠ metrics)
 
 ---
 
-## 🛠 Products
+## 🛠 Projects
 
-- **[AquaTwin](https://github.com/rogue-socket/aquatwin)**  
-  Digital Twin agent architecture for long-horizon decision support.
+- **[rogue-socket](https://github.com/rogue-socket/rogue-socket)**  
+  Core agentic LLM system (central to my AI tooling ecosystem).
 
-- **[Medical Necessity Engine](https://github.com/yourusername/medical-necessity-engine)**  
-  RAG + knowledge graph system for clinical justification generation.
+- **[agentic_article_writer](https://github.com/rogue-socket/agentic_article_writer)**  
+  LLM-based agentic pipeline to generate structured articles with modular flow.
 
-- **[SQL Reasoning Agent](https://github.com/yourusername/sql-reasoning-agent)**  
-  Chain-of-Thought + ReAct based SQL generation and benchmarking framework.
+- **[doctor_reporting](https://github.com/rogue-socket/doctor_reporting)**  
+  Python system for generating clinical reports — grounded outputs, evaluation focus.
 
-- **[Neural Net from Scratch](https://github.com/yourusername/mnist-from-scratch)**  
-  MNIST classifier built using pure NumPy (+ CuPy), no high-level abstractions.
+- **[AquaTwin-Web](https://github.com/rogue-socket/AquaTwin-Web)**  
+  Web interface / demo tied to AquaTwin digital twin concepts.
+
+- **[neural_network_numpy](https://github.com/rogue-socket/neural_network_numpy)**  
+  MNIST classifier built from first principles in NumPy (no high-level libs).
 
 ---
 
-## ⚙️ Stack
+## 🧰 Tech Stack
 
-**Languages**  
-`Python` `C++` `SQL` `JavaScript`
+**Core Languages**  
+`Python` `Kotlin` `SQL` `JavaScript`
 
-**AI Systems**  
-`PyTorch` `Transformers` `Fine-tuning`  
-`LangChain` `LangGraph` `LlamaIndex`  
-`Embeddings` `RAG` `Knowledge Graphs` `Neo4j`
+**AI / ML**  
+`PyTorch` `Transformers` `LLM agents`  
+`LangChain` `LangGraph` `RAG`  
+`Evaluation pipelines` `Structured reasoning`
 
-**Infra**  
-`Docker` `AWS` `API Design`
+**Backend / Infra**  
+`FastAPI` `Docker` `CI/CD workflows`  
+`REST APIs` `Deployment pipelines`
 
 ---
 
