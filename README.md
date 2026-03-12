@@ -11,8 +11,14 @@
 
 ## 🛠 Projects
 
-- **[rogue-socket](https://github.com/rogue-socket/rogue-socket)**  
-  Core agentic LLM system (central to my AI tooling ecosystem).
+- **[closedclaw](https://github.com/rogue-socket/agentic_article_writer)**  
+  LLM-based agentic pipeline to generate structured articles with modular flow.
+
+- **[ForrestRun](https://github.com/rogue-socket/agentic_article_writer)**  
+LLM-based agentic pipeline to generate structured articles with modular flow.
+
+- **[mycompagent](https://github.com/rogue-socket/agentic_article_writer)**  
+  LLM-based agentic pipeline to generate structured articles with modular flow.
 
 - **[agentic_article_writer](https://github.com/rogue-socket/agentic_article_writer)**  
   LLM-based agentic pipeline to generate structured articles with modular flow.
@@ -25,6 +31,9 @@
 
 - **[neural_network_numpy](https://github.com/rogue-socket/neural_network_numpy)**  
   MNIST classifier built from first principles in NumPy (no high-level libs).
+
+- **[scrollable](https://github.com/rogue-socket/agentic_article_writer)**  
+  LLM-based agentic pipeline to generate structured articles with modular flow.
 
 ---
 
