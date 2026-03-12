@@ -12,45 +12,52 @@
 ## 🛠 Projects
 
 - **[closedclaw](https://github.com/rogue-socket/agentic_article_writer)**  
-  LLM-based agentic pipeline to generate structured articles with modular flow.
+  Automated Agent creation + deployment + orchestration + storage, dont kill your agents
 
 - **[ForrestRun](https://github.com/rogue-socket/agentic_article_writer)**  
-LLM-based agentic pipeline to generate structured articles with modular flow.
+  The agentic runtime, use this to design, fix, teach your agents
 
-- **[mycompagent](https://github.com/rogue-socket/agentic_article_writer)**  
-  LLM-based agentic pipeline to generate structured articles with modular flow.
+- **[mycompagent](https://github.com/rogue-socket/mycompagent)**  
+  Agent controlling your browser for you, uses Playwright CLI
 
 - **[agentic_article_writer](https://github.com/rogue-socket/agentic_article_writer)**  
-  LLM-based agentic pipeline to generate structured articles with modular flow.
+  Agentic article writer, mastering in different article styles, looks generic, would surprise you
 
 - **[doctor_reporting](https://github.com/rogue-socket/doctor_reporting)**  
-  Python system for generating clinical reports — grounded outputs, evaluation focus.
+  Agentic flow for auto generation of consultation of reports based on discussions with the patients
 
-- **[AquaTwin-Web](https://github.com/rogue-socket/AquaTwin-Web)**  
-  Web interface / demo tied to AquaTwin digital twin concepts.
+- **[AquaTwin](https://github.com/rogue-socket/AquaTwin-Web)**  
+  Agentic control of a water management digital twin, can be used for interfacing with any digital twin
 
 - **[neural_network_numpy](https://github.com/rogue-socket/neural_network_numpy)**  
-  MNIST classifier built from first principles in NumPy (no high-level libs).
+  yes, a generic NN, built only using NumPy(no tensorflow or pytorch)
 
-- **[scrollable](https://github.com/rogue-socket/agentic_article_writer)**  
-  LLM-based agentic pipeline to generate structured articles with modular flow.
+- **[scrollable](https://github.com/rogue-socket/scroller)**  
+  Agent controlling your phone for you, make it do anything(android for now)
 
----
+- **[learnwithme](https://github.com/rogue-socket/agentic_article_writer)**  
+  Website to find people to learn and grow with
 
-## 🧰 Tech Stack
+- **[notes_me](https://github.com/rogue-socket/notes_me)**  
+  Android app to act as your second brain
 
-**Core Languages**  
-`Python` `Kotlin` `SQL` `JavaScript`
-
-**AI / ML**  
-`PyTorch` `Transformers` `LLM agents`  
-`LangChain` `LangGraph` `RAG`  
-`Evaluation pipelines` `Structured reasoning`
-
-**Backend / Infra**  
-`FastAPI` `Docker` `CI/CD workflows`  
-`REST APIs` `Deployment pipelines`
+- **[math_guitar_VLM](https://github.com/rogue-socket/math-guitar-vlm)**  
+  Vision + Image processing based pedagogy, right now for math + guitar, can be used for learning anything
 
 ---
 
-Open to building ambitious AI products.
+# 💡 What I'm working with most of the time
+
+`AI Agents: LangChain, LangGraph, the entire shebang`
+
+`Agent Architecturing: Tool-calling, Structured reasoning, Knowledge graphs, Orchestration, Evaluation`
+
+---
+
+Open to building and collaborating on products.
+
+📧 **Email**
+[yash.agr1510@gmail.com](mailto:yash.agr1510@gmail.com)
+
+💼 **LinkedIn**
+[https://www.linkedin.com/in/yash-agrawal-7833a4246](https://www.linkedin.com/in/yash-agrawal-7833a4246)
