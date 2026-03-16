@@ -10,9 +10,9 @@
 
 ## 🛠 Projects
 
-- **[closedclaw](https://github.com/rogue-socket/agentic_article_writer)**: Framework for automated agent creation + deployment + orchestration + storage, a literal village of agents which grows
+- **[closedclaw](https://github.com/rogue-socket/closed_claw)**: Framework for automated agent creation + deployment + orchestration + storage, a literal village of agents which grows
 
-- **[ForrestRun](https://github.com/rogue-socket/agentic_article_writer)**: The agentic runtime, use this to design, fix, teach your agents
+- **[ForrestRun](https://github.com/rogue-socket/agentic-runtime)**: The agentic runtime, use this to design, fix, teach your agents
 
 - **[mycompagent](https://github.com/rogue-socket/mycompagent)**: Agent controlling your browser for you, uses Playwright CLI
 
