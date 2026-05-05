@@ -14,11 +14,11 @@
 
 ## What I'm Building
 
-- 🧠 AI agents and workflows that are effective, efficient, and deliberate
-- 🏗️ Structured reasoning systems and agent runtimes
-- ⚙️ Production-aware LLM backends
-- 📊 Evaluation pipelines (because vibes don't match all the time)
-- 🍏 Native macOS apps that respect your battery and your taste
+- **Agent runtimes that earn their keep** — orchestration, evaluation, and evolution layers that make agents debuggable instead of mysterious
+- **Local-first dev tools** — Jira, PDF, markdown, dashboards, code-comprehension graphs, all running on your machine, none of them phoning home
+- **Native macOS apps** — Swift/AppKit/SwiftUI tools that stay out of your way and don't melt your battery
+- **VS Code extensions** that turn the editor into a thinking surface, not just a text box
+- **Personal infrastructure** — a vault-backed assistant (Kayo) that ingests, schedules, and remembers, wired to wherever I happen to be
 
 ## Current Projects
 
@@ -67,13 +67,6 @@
 - 🧮 **[neural_network_numpy](https://github.com/rogue-socket/neural_network_numpy)** — A neural net built only with NumPy. No TensorFlow, no PyTorch.
 - 🎸 **[math_guitar_VLM](https://github.com/rogue-socket/math-guitar-vlm)** — Vision + image-processing-based pedagogy for math and guitar. Generalizes to learning anything.
 - 📝 **[notes_me](https://github.com/rogue-socket/notes_me)** — Android app as your second brain.
-
-## What I'm Working With
-
-`AI Agents:` LangChain, LangGraph, Claude Code skills, MCP, the entire shebang
-`Agent Architecture:` Tool-calling, structured reasoning, knowledge graphs, orchestration, evaluation
-`Native:` Swift / SwiftUI / AppKit on macOS, Kotlin on Android
-`Web & tooling:` TypeScript, Python, FastAPI, VS Code extension APIs
 
 ## GitHub Activity
 
