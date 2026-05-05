@@ -26,20 +26,20 @@
 
 - 🧬 **[agent-ville](https://github.com/rogue-socket/agent-ville)** — Agents that evolve through actual Darwinian natural selection. Spawns populations of prompt-tool-strategy genomes, scores them, mutates the survivors. Pure stdlib + vanilla JS.
 - 🌲 **[ForrestRun (agentic-runtime)](https://github.com/rogue-socket/agentic-runtime)** — The agentic runtime. Use it to design, debug, and teach your agents.
-- 🦾 **[closed_claw](https://github.com/rogue-socket/closed_claw)** — Framework for automated agent creation, deployment, orchestration, and storage. A literal village of agents that grows.
-- 🛰️ **[mycompagent](https://github.com/rogue-socket/mycompagent)** — Agent that drives your browser via Playwright CLI.
-- 🛠️ **[AI-System-Engineer](https://github.com/rogue-socket/AI-System-Engineer)** — Agent that thinks like a systems engineer.
+- 🦞 **[closed_claw](https://github.com/rogue-socket/closed_claw)** — Framework for automated agent creation, deployment, orchestration, and storage. A literal village of agents that grows.
+- 🌐 **[mycompagent](https://github.com/rogue-socket/mycompagent)** — Agent that drives your browser via Playwright CLI.
+- 🏗️ **[AI-System-Engineer](https://github.com/rogue-socket/AI-System-Engineer)** — Agent that thinks like a systems engineer.
 - 🤖 **[kayo](https://github.com/rogue-socket/kayo)** — My personal AI assistant. Vault-backed knowledge ingestion, finance dashboard, scheduler, web fetcher, Telegram bridge — all wired into a single Copilot/Claude Code identity.
 
 ### Native macOS
 
 - 🗺️ **[atlas](https://github.com/rogue-socket/atlas)** — Native macOS PDF reader with a live, AI-generated knowledge map. Force-directed graph of concepts linked back to every source passage; cross-document correlation built in.
 - ✍️ **[markit](https://github.com/rogue-socket/markit)** — Annotate markdown on macOS — highlight, comment, export. Native Swift, no Electron, source files never modified.
-- 🌿 **[gitstatus](https://github.com/rogue-socket/gitstatus)** — Tiny menu bar app that scans `~/Documents` for git repos and shows branch + working-tree state. AppKit, 0% idle CPU, single-digit MB RSS.
+- 🌳 **[gitstatus](https://github.com/rogue-socket/gitstatus)** — Tiny menu bar app that scans `~/Documents` for git repos and shows branch + working-tree state. AppKit, 0% idle CPU, single-digit MB RSS.
 
 ### Dev tooling & VS Code
 
-- 🧭 **[flowDE](https://github.com/rogue-socket/flowDE)** — Graph-based code comprehension for Python in VS Code. Static analysis, data-flow tracking, interactive flowchart exploration.
+- 🕸️ **[flowDE](https://github.com/rogue-socket/flowDE)** — Graph-based code comprehension for Python in VS Code. Static analysis, data-flow tracking, interactive flowchart exploration.
 - 💬 **[mdcomments](https://github.com/rogue-socket/mdcomments)** — Inline, thread-based comments on rendered Markdown inside VS Code.
 - 📋 **[jira](https://github.com/rogue-socket/jira)** — Local, file-backed Jira-style project tracker. No cloud, no login, no SaaS bill.
 - 🧪 **[sample_backends](https://github.com/rogue-socket/sample_backends)** — Runnable sample servers (FastAPI/Flask) for local dev, integration testing, and demos: store, payments, file upload, search, messaging, OTP auth.
@@ -55,7 +55,7 @@
 ### Utilities
 
 - 📄 **[idolovepdf](https://github.com/rogue-socket/idolovepdf)** — Local PDF toolkit (CLI + browser UI). Merge, split, rotate, compress, watermark, number, reorder, convert. No uploads, no cloud.
-- 🪟 **[GlanceOS](https://github.com/rogue-socket/GlanceOS)** — Tile-based dashboard for Raspberry Pi (and any Linux/macOS). Glassmorphic draggable widgets, real-time WebSocket data, lofi ASCII vibes.
+- 📊 **[GlanceOS](https://github.com/rogue-socket/GlanceOS)** — Tile-based dashboard for Raspberry Pi (and any Linux/macOS). Glassmorphic draggable widgets, real-time WebSocket data, lofi ASCII vibes.
 - 💚 **[wa-puppet](https://github.com/rogue-socket/wa-puppet)** — WhatsApp Web automation in Python + Playwright with a JSON rule engine.
 - 🗃️ **[wa-data](https://github.com/rogue-socket/wa-data)** — Pipe WhatsApp group messages into SQLite via a tiny Node bot + FastAPI backend.
 
@@ -64,7 +64,7 @@
 - ✏️ **[agentic_article_writer](https://github.com/rogue-socket/agentic_article_writer)** — Agentic writer that adopts different article styles. Looks generic; surprises you.
 - 🩺 **[doctor_reporting](https://github.com/rogue-socket/doctor_reporting)** — Agentic flow for auto-generating consultation reports from patient discussions.
 - 💧 **[AquaTwin](https://github.com/rogue-socket/AquaTwin-Web)** — Agentic control of a water-management digital twin. Pattern generalizes to any digital twin.
-- 🔢 **[neural_network_numpy](https://github.com/rogue-socket/neural_network_numpy)** — A neural net built only with NumPy. No TensorFlow, no PyTorch.
+- 🧮 **[neural_network_numpy](https://github.com/rogue-socket/neural_network_numpy)** — A neural net built only with NumPy. No TensorFlow, no PyTorch.
 - 🎸 **[math_guitar_VLM](https://github.com/rogue-socket/math-guitar-vlm)** — Vision + image-processing-based pedagogy for math and guitar. Generalizes to learning anything.
 - 📝 **[notes_me](https://github.com/rogue-socket/notes_me)** — Android app as your second brain.
 
