@@ -68,10 +68,6 @@
 - 🎸 **[math_guitar_VLM](https://github.com/rogue-socket/math-guitar-vlm)** — Vision + image-processing-based pedagogy for math and guitar. Generalizes to learning anything.
 - 📝 **[notes_me](https://github.com/rogue-socket/notes_me)** — Android app as your second brain.
 
-## GitHub Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rogue-socket&bg_color=00000000&color=39d353&line=39d353&point=ffffff&area=true&area_color=39d353&hide_border=true)
-
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://rogue-socket.github.io/portfolio/)
