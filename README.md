@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
@@ -78,7 +77,10 @@
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/rogue-socket)
+[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogue-socket&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/rogue-socket)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogue-socket&layout=compact&theme=transparent&hide_border=true)](https://github.com/rogue-socket)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rogue-socket&theme=react-dark&hide_border=true&area=true)
 
 ## Connect
 
@@ -86,8 +88,8 @@
 [![LinkedIn](https://img.shields.io/badge/-Yash_Agrawal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-agrawal-7833a4246)
 [![Email](https://img.shields.io/badge/-yash.agr1510%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yash.agr1510@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rogue-socket)
-<!-- TODO: add Twitter/X badge once handle is provided -->
+[![X](https://img.shields.io/badge/-@rogue__socket-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/rogue_socket)
 
 ---
 
-> Open to building and collaborating on products. Ship beats perfect.
+> Open to building and collaborating on products.
