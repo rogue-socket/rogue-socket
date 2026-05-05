@@ -77,15 +77,12 @@
 
 ## GitHub Activity
 
-[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogue-socket&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/rogue-socket)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogue-socket&layout=compact&theme=transparent&hide_border=true)](https://github.com/rogue-socket)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rogue-socket&theme=react-dark&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rogue-socket&bg_color=00000000&color=39d353&line=39d353&point=ffffff&area=true&area_color=39d353&hide_border=true)
 
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://rogue-socket.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/-Yash_Agrawal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-agrawal-7833a4246)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash%20Agrawal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-agrawal-7833a4246)
 [![Email](https://img.shields.io/badge/-yash.agr1510%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yash.agr1510@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rogue-socket)
 [![X](https://img.shields.io/badge/-@rogue__socket-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/rogue_socket)
