@@ -35,7 +35,7 @@
 
 - 🗺️ **[atlas](https://github.com/rogue-socket/atlas)**: Native macOS PDF reader with a live, AI-generated knowledge map. Force-directed graph of concepts linked back to every source passage; cross-document correlation built in.
 - ✍️ **[markit](https://github.com/rogue-socket/markit)**: Annotate markdown on macOS: highlight, comment, export. Native Swift, no Electron, source files never modified.
-- 🌳 **[gitstatus](https://github.com/rogue-socket/gitstatus)**: Tiny menu bar app that scans `~/Documents` for git repos and shows branch + working-tree state. AppKit, 0% idle CPU, single-digit MB RSS, website: gitstatus.tech.
+- 🌳 **[gitstatus](https://github.com/rogue-socket/gitstatus)**: Tiny menu bar app that scans `~/Documents` for git repos and shows branch + working-tree state. AppKit, 0% idle CPU, single-digit MB RSS, website: https://gitstatus.tech
 
 ### Dev tooling & VS Code
 
