@@ -1,6 +1,10 @@
 # Hi, I'm Yash 👋
 
-**India** | **Building agents that actually do the thing** | **Siemens by day, native + agentic tools by night**
+**India** | **Building agents that actually do the thing** | **Siemens by day, native + agent tools by night**
+
+Engineer building local-first AI tools, agent runtimes, native macOS apps, and developer infrastructure.
+
+I care about agents that are **debuggable**, **evaluable**, and useful outside demos.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
@@ -10,63 +14,171 @@
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
 
-> Deep in agent-building mode: designing, evaluating, and shipping agentic systems that are deliberate, not vibes-only. Lately also building native macOS apps and dev tools that take the slop out of my own workflow.
+---
 
 ## What I'm Building
 
-- **Agent runtimes that earn their keep**: orchestration, evaluation, and evolution layers that make agents debuggable instead of mysterious
-- **Local-first dev tools**: Jira, PDF, markdown, dashboards, code-comprehension graphs, all running on your machine, none of them phoning home
-- **Native macOS apps**: Swift/AppKit/SwiftUI tools that stay out of your way and don't melt your battery
-- **VS Code extensions** that turn the editor into a thinking surface, not just a text box
-- **Personal infrastructure**: a vault-backed assistant (Kayo) that ingests, schedules, and remembers, wired to wherever I happen to be
+- **Agent runtimes** with orchestration, evaluation, debugging, and evolution loops
+- **Local-first dev tools** for PDFs, Jira-style tracking, markdown, dashboards, and code comprehension
+- **Native macOS apps** that stay fast, private, and battery-friendly
+- **VS Code extensions** that turn the editor into a thinking surface
+- **Personal AI infrastructure** around Kayo, my vault-backed assistant for memory, scheduling, web fetches, finance, and Telegram workflows
 
-## Current Projects
+---
 
-### Agentic systems & runtimes
+## Featured Projects
 
-- 🧬 **[agent-ville](https://github.com/rogue-socket/agent-ville)**: Agents that evolve through actual Darwinian natural selection. Spawns populations of prompt-tool-strategy genomes, scores them, mutates the survivors. Pure stdlib + vanilla JS.
-- 🌲 **[ForrestRun (agentic-runtime)](https://github.com/rogue-socket/agentic-runtime)**: The agentic runtime. Use it to design, debug, and teach your agents.
-- 🦞 **[closed_claw](https://github.com/rogue-socket/closed_claw)**: Framework for automated agent creation, deployment, orchestration, and storage. A literal village of agents that grows.
-- 🌐 **[mycompagent](https://github.com/rogue-socket/mycompagent)**: Agent that drives your browser via Playwright CLI.
-- 🏗️ **[AI-System-Engineer](https://github.com/rogue-socket/AI-System-Engineer)**: Agent that thinks like a systems engineer.
-- 🤖 **[kayo](https://github.com/rogue-socket/kayo)**: My personal AI assistant. Vault-backed knowledge ingestion, finance dashboard, scheduler, web fetcher, Telegram bridge: all wired into a single Copilot/Claude Code identity.
+| Project | What it does | Stack / Focus |
+|---|---|---|
+| [agent-ville](https://github.com/rogue-socket/agent-ville) | Evolves populations of prompt-tool-strategy genomes through scoring, mutation, and selection | Python, JS, agent evaluation |
+| [ForrestRun](https://github.com/rogue-socket/agentic-runtime) | Runtime for designing, debugging, and teaching agents | Agent runtime |
+| [atlas](https://github.com/rogue-socket/atlas) | Native macOS PDF reader with AI-generated knowledge maps and source-linked concept graphs | Swift, macOS, AI reading |
+| [gitstatus](https://github.com/rogue-socket/gitstatus) | Lightweight menu bar Git repo monitor with near-zero idle overhead | AppKit, macOS |
+| [flowDE](https://github.com/rogue-socket/flowDE) | Graph-based Python code comprehension inside VS Code | TypeScript, static analysis |
+| [kayo](https://github.com/rogue-socket/kayo) | Personal AI assistant wired into memory, scheduling, finance, web fetches, and Telegram | AI assistant infrastructure |
+
+---
+
+## Project Index
+
+### Agent Systems & Runtimes
+
+- 🧬 **[agent-ville](https://github.com/rogue-socket/agent-ville)**  
+  Agents that evolve through Darwinian selection. Spawns populations of prompt-tool-strategy genomes, scores them, mutates the survivors, and keeps the best performers.  
+  **Focus:** agent evaluation, evolutionary loops, pure stdlib + vanilla JS.
+
+- 🌲 **[ForrestRun / agentic-runtime](https://github.com/rogue-socket/agentic-runtime)**  
+  Runtime for designing, debugging, and teaching agents. Built around making agent behavior observable instead of mysterious.  
+  **Focus:** agent runtime, debugging, orchestration.
+
+- 🦞 **[closed_claw](https://github.com/rogue-socket/closed_claw)**  
+  Framework for automated agent creation, deployment, orchestration, and storage. A growing village of persistent agents.  
+  **Focus:** agent creation, deployment, orchestration.
+
+- 🌐 **[mycompagent](https://github.com/rogue-socket/mycompagent)**  
+  Agent that drives your browser through the Playwright CLI.  
+  **Focus:** browser automation, agent control, Playwright.
+
+- 🏗️ **[AI-System-Engineer](https://github.com/rogue-socket/AI-System-Engineer)**  
+  Agent that approaches problems like a systems engineer.  
+  **Focus:** systems thinking, architecture, AI-assisted engineering.
+
+- 🤖 **[kayo](https://github.com/rogue-socket/kayo)**  
+  My personal AI assistant. Vault-backed knowledge ingestion, finance dashboard, scheduler, web fetcher, Telegram bridge, and a unified Copilot/Claude Code identity.  
+  **Focus:** personal AI infrastructure, memory, automation.
+
+---
 
 ### Native macOS
 
-- 🗺️ **[atlas](https://github.com/rogue-socket/atlas)**: Native macOS PDF reader with a live, AI-generated knowledge map. Force-directed graph of concepts linked back to every source passage; cross-document correlation built in.
-- ✍️ **[markit](https://github.com/rogue-socket/markit)**: Annotate markdown on macOS: highlight, comment, export. Native Swift, no Electron, source files never modified.
-- 🌳 **[gitstatus](https://github.com/rogue-socket/gitstatus)**: Tiny menu bar app that scans `~/Documents` for git repos and shows branch + working-tree state. AppKit, 0% idle CPU, single-digit MB RSS, website: https://gitstatus.tech
+- 🗺️ **[atlas](https://github.com/rogue-socket/atlas)**  
+  Native macOS PDF reader with a live, AI-generated knowledge map. Creates force-directed concept graphs linked back to source passages, with cross-document correlation built in.  
+  **Focus:** Swift, macOS, PDF intelligence, knowledge graphs.
 
-### Dev tooling & VS Code
+- ✍️ **[markit](https://github.com/rogue-socket/markit)**  
+  Native macOS app for annotating Markdown. Highlight, comment, and export without modifying the source files.  
+  **Focus:** Swift, native Markdown workflows, no Electron.
 
-- 🕸️ **[flowDE](https://github.com/rogue-socket/flowDE)**: Graph-based code comprehension for Python in VS Code. Static analysis, data-flow tracking, interactive flowchart exploration.
-- 💬 **[mdcomments](https://github.com/rogue-socket/mdcomments)**: Inline, thread-based comments on rendered Markdown inside VS Code.
-- 📋 **[jira](https://github.com/rogue-socket/jira)**: Local, file-backed Jira-style project tracker. No cloud, no login, no SaaS bill.
-- 🧪 **[sample_backends](https://github.com/rogue-socket/sample_backends)**: Runnable sample servers (FastAPI/Flask) for local dev, integration testing, and demos: store, payments, file upload, search, messaging, OTP auth.
+- 🌳 **[gitstatus](https://github.com/rogue-socket/gitstatus)**  
+  Tiny menu bar app that scans `~/Documents` for Git repositories and shows branch + working-tree state.  
+  AppKit, 0% idle CPU, single-digit MB RSS.  
+  Website: [gitstatus.tech](https://gitstatus.tech)  
+  **Focus:** AppKit, Git tooling, lightweight native utilities.
 
-### Skills & courseware
+---
 
-- 🎓 **[system-design-tutor](https://github.com/rogue-socket/system-design-tutor)**: A Claude Code skill that runs an end-to-end system design course: anchored to DDIA and the System Design Primer, with real-world incidents, runnable exercises, and mock interviews.
+### Dev Tooling & VS Code
 
-### Cross-platform / Android
+- 🕸️ **[flowDE](https://github.com/rogue-socket/flowDE)**  
+  Graph-based code comprehension for Python inside VS Code. Static analysis, data-flow tracking, and interactive flowchart exploration.  
+  **Focus:** VS Code, Python analysis, code graphs.
 
-- 📱 **[scroller](https://github.com/rogue-socket/scroller)**: Agent that drives your phone for you. Android, today.
+- 💬 **[mdcomments](https://github.com/rogue-socket/mdcomments)**  
+  Inline, thread-based comments on rendered Markdown inside VS Code.  
+  **Focus:** Markdown workflows, VS Code extension development.
+
+- 📋 **[jira](https://github.com/rogue-socket/jira)**  
+  Local, file-backed Jira-style project tracker. No cloud, no login, no SaaS bill.  
+  **Focus:** local-first project management.
+
+- 🧪 **[sample_backends](https://github.com/rogue-socket/sample_backends)**  
+  Runnable sample servers for local development, integration testing, and demos. Includes FastAPI/Flask examples for stores, payments, file upload, search, messaging, and OTP auth.  
+  **Focus:** backend demos, API testing, local integration.
+
+---
+
+### Skills & Courseware
+
+- 🎓 **[system-design-tutor](https://github.com/rogue-socket/system-design-tutor)**  
+  Claude Code skill for running an end-to-end system design course. Anchored to DDIA and the System Design Primer, with real-world incidents, runnable exercises, and mock interviews.  
+  **Focus:** system design, Claude Code skills, structured learning.
+
+---
+
+### Cross-Platform / Android
+
+- 📱 **[scroller](https://github.com/rogue-socket/scroller)**  
+  Agent that drives your phone for you. Android first.  
+  **Focus:** mobile automation, Android, agent control.
+
+---
 
 ### Utilities
 
-- 📄 **[idolovepdf](https://github.com/rogue-socket/idolovepdf)**: Local PDF toolkit (CLI + browser UI). Merge, split, rotate, compress, watermark, number, reorder, convert. No uploads, no cloud.
-- 📊 **[GlanceOS](https://github.com/rogue-socket/GlanceOS)**: Tile-based dashboard for Raspberry Pi (and any Linux/macOS). Glassmorphic draggable widgets, real-time WebSocket data, lofi ASCII vibes.
-- 💚 **[wa-puppet](https://github.com/rogue-socket/wa-puppet)**: WhatsApp Web automation in Python + Playwright with a JSON rule engine.
-- 🗃️ **[wa-data](https://github.com/rogue-socket/wa-data)**: Pipe WhatsApp group messages into SQLite via a tiny Node bot + FastAPI backend.
+- 📄 **[idolovepdf](https://github.com/rogue-socket/idolovepdf)**  
+  Local PDF toolkit with CLI and browser UI. Merge, split, rotate, compress, watermark, number, reorder, and convert PDFs without uploads or cloud processing.  
+  **Focus:** local-first PDF tooling.
 
-### Earlier Work
+- 📊 **[GlanceOS](https://github.com/rogue-socket/GlanceOS)**  
+  Tile-based dashboard for Raspberry Pi, Linux, and macOS. Glassmorphic draggable widgets, real-time WebSocket data, and lofi ASCII vibes.  
+  **Focus:** dashboards, Raspberry Pi, real-time widgets.
 
-- ✏️ **[agentic_article_writer](https://github.com/rogue-socket/agentic_article_writer)**: Agentic writer that adopts different article styles. Looks generic; surprises you.
-- 🩺 **[doctor_reporting](https://github.com/rogue-socket/doctor_reporting)**: Agentic flow for auto-generating consultation reports from patient discussions.
-- 💧 **[AquaTwin](https://github.com/rogue-socket/AquaTwin-Web)**: Agentic control of a water-management digital twin. Pattern generalizes to any digital twin.
-- 🧮 **[neural_network_numpy](https://github.com/rogue-socket/neural_network_numpy)**: A neural net built only with NumPy. No TensorFlow, no PyTorch.
-- 🎸 **[math_guitar_VLM](https://github.com/rogue-socket/math-guitar-vlm)**: Vision + image-processing-based pedagogy for math and guitar. Generalizes to learning anything.
-- 📝 **[notes_me](https://github.com/rogue-socket/notes_me)**: Android app as your second brain.
+- 💚 **[wa-puppet](https://github.com/rogue-socket/wa-puppet)**  
+  WhatsApp Web automation in Python + Playwright with a JSON rule engine.  
+  **Focus:** WhatsApp automation, Playwright, rules engine.
+
+- 🗃️ **[wa-data](https://github.com/rogue-socket/wa-data)**  
+  Pipe WhatsApp group messages into SQLite using a tiny Node bot and FastAPI backend.  
+  **Focus:** message ingestion, SQLite, FastAPI.
+
+---
+
+<details>
+<summary>Earlier Work</summary>
+
+- ✏️ **[agentic_article_writer](https://github.com/rogue-socket/agentic_article_writer)**  
+  Multi-step article-writing agent that adapts to different article styles.
+
+- 🩺 **[doctor_reporting](https://github.com/rogue-socket/doctor_reporting)**  
+  Agent flow for auto-generating consultation reports from patient discussions.
+
+- 💧 **[AquaTwin](https://github.com/rogue-socket/AquaTwin-Web)**  
+  AI-driven control layer for a water-management digital twin. The pattern generalizes to other digital-twin systems.
+
+- 🧮 **[neural_network_numpy](https://github.com/rogue-socket/neural_network_numpy)**  
+  Neural network built only with NumPy. No TensorFlow, no PyTorch.
+
+- 🎸 **[math_guitar_VLM](https://github.com/rogue-socket/math-guitar-vlm)**  
+  Vision + image-processing-based pedagogy for math and guitar. Generalizes to learning workflows beyond those two domains.
+
+- 📝 **[notes_me](https://github.com/rogue-socket/notes_me)**  
+  Android second-brain app for personal notes and memory.
+
+</details>
+
+---
+
+## How I Think About Software
+
+I like tools that are:
+
+- **Local-first**: useful without a cloud dependency
+- **Inspectable**: easy to debug, trace, and understand
+- **Fast enough to disappear**: no heavy UI tax, no idle battery drain
+- **Built around real workflows**: not demos, not toy wrappers
+- **Composable**: small pieces that can be wired into larger systems
+
+---
 
 ## Connect
 
@@ -74,8 +186,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash%20Agrawal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-agrawal-7833a4246)
 [![Email](https://img.shields.io/badge/-yash.agr1510%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yash.agr1510@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rogue-socket)
-[![X](https://img.shields.io/badge/-@rogue__socket-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/rogue_socket)
+[![X](https://img.shields.io/badge/-@rogue_socket-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/rogue_socket)
 
 ---
 
-> Open to building and collaborating on products.
+> Open to collaborating on agent runtimes, local-first AI tools, native apps, developer infrastructure, and serious product ideas.
