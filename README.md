@@ -1,6 +1,6 @@
 # Hi, I'm Yash 👋
 
-**India** | **Building agents that actually do the thing** | **Siemens by day, native + agent tools by night**
+**India** | **Building agents that actually do the thing** | **emergent.sh by day, native + agent tools by night**
 
 Engineer building local-first AI tools, agent runtimes, native macOS apps, and developer infrastructure.
 
